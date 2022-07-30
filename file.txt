@@ -1,4 +1,5 @@
 This is from repo!
 File!
 Changed in VI!!
-
+pulling the chaned in VI
+from the detached
